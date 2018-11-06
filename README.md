@@ -1,11 +1,20 @@
 # Computer-vision
 
 ## Computer Vision Course
+[Image alignment and color reconstruction](https://github.com/SeanCsc/Computer-vision/tree/master/align)
 
-### Image alignment and color reconstruction: implement different interpolation method to reconstruct RGB image.
+implement different interpolation method to reconstruct RGB image.
 
-### Photometric Stereo: based on pictures from different light view, reconstruct 3D figure of human face.
+[Photometric Stereo](https://github.com/SeanCsc/Computer-vision/tree/master/Photometric%20Stereo)
 
-### Scale-space blob detection: Implement Laplacian filter to detect blob. Through changing the filter size and image size, detect the possible location and size of blob. Implement maximum compression for the blobs.
+based on pictures from different light view, reconstruct 3D figure of human face.
 
-### mage stiching: By implementing feature detection (corner), feature description, and RANSAC to get the transformation matrix and then stich two or three figures.
+[Scale-space blob detection](https://github.com/SeanCsc/Computer-vision/tree/master/Scale-space%20blob%20detection)
+
+Implement Laplacian filter to detect blob. Through changing the filter size and image size, detect the possible location and size of blob. Implement maximum compression for the blobs.
+
+[image stiching](https://github.com/SeanCsc/Computer-vision/tree/master/Image%20stiching)
+
+By implementing feature detection (corner), feature description, and RANSAC to get the transformation matrix and then stich two or three figures.
+
+[CNN implementation](https://github.com/SeanCsc/Computer-vision/tree/master/CNN%20implementation)
